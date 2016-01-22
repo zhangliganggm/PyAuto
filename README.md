@@ -5,7 +5,8 @@
 ####解决需求：
 1.模拟人工点击操作进行自动化。
 
-这个开发项目的针对一款windows的桌面软件。此桌面软件是用一个webkit写的浏览器。外部无法获取控件hwnd等任何信息。
+这个开发项目的针对一款windows的桌面软件。
+此桌面软件是用一个webkit写的浏览器。外部无法获取控件hwnd等任何信息。
 所以只能根据UI反馈的颜色信息进行每步自动化的操作。
 
 #####步骤器：
@@ -29,3 +30,7 @@ https://coding.net/u/acee/p/PyAuto/git
 ##Makedown在线编辑器
 https://maxiang.io/#
 
+######作者
+QQ:394452216
+Email:Acee-Studio@qq.com
+Blog:http://cgace.blogbus.com/
