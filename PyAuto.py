@@ -1,9 +1,10 @@
-# -*- coding:utf-8 -*-
+﻿# -*- coding:utf-8 -*-
 
 __author__ = 'Ace'
 __email__ = '394452216@qq.com'
 
 """
+Test1
 自动模拟点击UI窗口
 解决需求：
 1.模拟人工点击操作进行自动化。
